@@ -1,0 +1,11 @@
+{
+  "name": "com.ux.urp",
+  "version": "0.1.0-alpha+20250724.1",
+  "displayName": "UX URP",
+  "description": "Unity URP Resources for UX",
+  "unity": "2021.3",
+  "author": {
+    "name": "Eos Wolfuardian",
+    "email": "wolfuardian@gmail.com"
+  }
+}

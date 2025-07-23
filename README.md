@@ -1,2 +1,2 @@
-# ux.urp
-Unity URP Resources for UX
+# ux.lean
+Unity LeanTouch Addon for UX
