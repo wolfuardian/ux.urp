@@ -662,8 +662,8 @@
     "m_ObjectId": "0b1adbe766564205b2fe9b6111792aa3",
     "m_Title": "Progress",
     "m_Position": {
-        "x": -743.0001220703125,
-        "y": 1121.0001220703125
+        "x": -742.9998779296875,
+        "y": 1120.9998779296875
     }
 }
 
@@ -1089,10 +1089,10 @@
     "m_Guid": {
         "m_GuidSerialized": "e80e44b0-1e2e-4e37-815c-9815a6ec51e9"
     },
-    "m_Name": "customUV",
+    "m_Name": "Custom UV",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "customUV",
-    "m_DefaultReferenceName": "_customUV",
+    "m_RefNameGeneratedByDisplayName": "Custom UV",
+    "m_DefaultReferenceName": "_Custom_UV",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -1693,7 +1693,7 @@
     "m_Type": "UnityEditor.ShaderGraph.BooleanMaterialSlot",
     "m_ObjectId": "61cdce3f50d9477893c3809602e156fa",
     "m_Id": 0,
-    "m_DisplayName": "useCustomUV",
+    "m_DisplayName": "Use Custom UV",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -1840,7 +1840,7 @@
     "m_Title": "Segment",
     "m_Position": {
         "x": -771.0,
-        "y": 281.9999694824219
+        "y": 282.0000305175781
     }
 }
 
@@ -1873,7 +1873,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector4MaterialSlot",
     "m_ObjectId": "835072958f8d409587864fd28c3bbd4d",
     "m_Id": 0,
-    "m_DisplayName": "customUV",
+    "m_DisplayName": "Custom UV",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -2004,10 +2004,10 @@
     "m_Guid": {
         "m_GuidSerialized": "f8462a41-6081-433d-9d4c-73235d666d3e"
     },
-    "m_Name": "useCustomUV",
+    "m_Name": "Use Custom UV",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "useCustomUV",
-    "m_DefaultReferenceName": "_useCustomUV",
+    "m_RefNameGeneratedByDisplayName": "Use Custom UV",
+    "m_DefaultReferenceName": "_Use_Custom_UV",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -2050,8 +2050,8 @@
     "m_ObjectId": "902cc8d9f8224d0baaf2eedfa71fdf29",
     "m_Title": "UV",
     "m_Position": {
-        "x": -1445.0001220703125,
-        "y": 221.9999542236328
+        "x": -1445.0,
+        "y": 222.00001525878907
     }
 }
 
