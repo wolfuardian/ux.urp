@@ -13,9 +13,6 @@
             "m_Id": "884d9044b1744063835c4a16c376da96"
         },
         {
-            "m_Id": "69e7c27289c0415088c631b2fd90c1f1"
-        },
-        {
             "m_Id": "16968c2cb34f4e8fbbe29bd407bdc7cc"
         },
         {
@@ -27,9 +24,6 @@
     "m_CategoryData": [
         {
             "m_Id": "67577d15b2e04226b81c9309cc8002d1"
-        },
-        {
-            "m_Id": "f7520c9b39b745d49e13e43b7d70fb9f"
         },
         {
             "m_Id": "011402bb8d24416d9ed608417f226e2d"
@@ -74,9 +68,6 @@
         },
         {
             "m_Id": "ecce7d6fa0ff4f3ca4186c69e0dddfc7"
-        },
-        {
-            "m_Id": "c3d04e42a6584732b384cf1ffc03f389"
         },
         {
             "m_Id": "7328cd9ea30b483e910a010e8697b1a0"
@@ -162,20 +153,6 @@
                     "m_Id": "2361b0e4c1254bc0b36372fa058abba2"
                 },
                 "m_SlotId": -1820454164
-            }
-        },
-        {
-            "m_OutputSlot": {
-                "m_Node": {
-                    "m_Id": "c3d04e42a6584732b384cf1ffc03f389"
-                },
-                "m_SlotId": 0
-            },
-            "m_InputSlot": {
-                "m_Node": {
-                    "m_Id": "2361b0e4c1254bc0b36372fa058abba2"
-                },
-                "m_SlotId": 1925049138
             }
         },
         {
@@ -267,16 +244,16 @@
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.CategoryData",
     "m_ObjectId": "011402bb8d24416d9ed608417f226e2d",
-    "m_Name": "Radian Style",
+    "m_Name": "Style",
     "m_ChildObjectList": [
+        {
+            "m_Id": "4b38dc6436c049488bc9e7ded0de1a6a"
+        },
         {
             "m_Id": "16968c2cb34f4e8fbbe29bd407bdc7cc"
         },
         {
             "m_Id": "884d9044b1744063835c4a16c376da96"
-        },
-        {
-            "m_Id": "69e7c27289c0415088c631b2fd90c1f1"
         },
         {
             "m_Id": "4a8acee1e9604e07afa4be2a0b72e18e"
@@ -510,9 +487,9 @@
         "m_Position": {
             "serializedVersion": "2",
             "x": 767.9999389648438,
-            "y": 1059.0,
+            "y": 1056.0,
             "width": 253.00006103515626,
-            "height": 398.9998779296875
+            "height": 399.0
         }
     },
     "m_Slots": [
@@ -606,7 +583,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "3a9e8b22df6b424c9f804107027e1f80",
     "m_Id": 0,
-    "m_DisplayName": "Repeat",
+    "m_DisplayName": "Radian Repeat",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -710,10 +687,10 @@
     "m_Guid": {
         "m_GuidSerialized": "365d3ae9-fa28-4d79-a32e-5ec86c4a7eb2"
     },
-    "m_Name": "Flip",
+    "m_Name": "Flip Direction",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Flip",
-    "m_DefaultReferenceName": "_Flip",
+    "m_RefNameGeneratedByDisplayName": "Flip Direction",
+    "m_DefaultReferenceName": "_Flip_Direction",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -733,10 +710,10 @@
     "m_Guid": {
         "m_GuidSerialized": "709761fa-632c-48b2-a3f6-7be4b3e323fe"
     },
-    "m_Name": "Repeat",
+    "m_Name": "Radian Repeat",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Repeat",
-    "m_DefaultReferenceName": "_Repeat",
+    "m_RefNameGeneratedByDisplayName": "Radian Repeat",
+    "m_DefaultReferenceName": "_Radian_Repeat",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -759,7 +736,7 @@
     "m_Type": "UnityEditor.ShaderGraph.BooleanMaterialSlot",
     "m_ObjectId": "53992cccc0ba4f40b3d0a5a3a8a30e86",
     "m_Id": 0,
-    "m_DisplayName": "Flip",
+    "m_DisplayName": "Flip Direction",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -812,29 +789,6 @@
             "m_Id": "131b91054a5f45919be508630c677c0f"
         }
     ]
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.Internal.BooleanShaderProperty",
-    "m_ObjectId": "69e7c27289c0415088c631b2fd90c1f1",
-    "m_Guid": {
-        "m_GuidSerialized": "f0aa2a9e-61a2-4602-a1da-def3937760b2"
-    },
-    "m_Name": "Mirror Radian Width Step",
-    "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Mirror Radian Width Step",
-    "m_DefaultReferenceName": "_Mirror_Radian_Width_Step",
-    "m_OverrideReferenceName": "",
-    "m_GeneratePropertyBlock": true,
-    "m_UseCustomSlotLabel": false,
-    "m_CustomSlotLabel": "",
-    "m_DismissedVersion": 0,
-    "m_Precision": 0,
-    "overrideHLSLDeclaration": false,
-    "hlslDeclarationOverride": 0,
-    "m_Hidden": false,
-    "m_Value": true
 }
 
 {
@@ -1002,20 +956,6 @@
 
 {
     "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.BooleanMaterialSlot",
-    "m_ObjectId": "8dd3ba8e2d5c48bf9322b8105eb323b1",
-    "m_Id": 0,
-    "m_DisplayName": "Mirror Radian Width Step",
-    "m_SlotType": 1,
-    "m_Hidden": false,
-    "m_ShaderOutputName": "Out",
-    "m_StageCapability": 3,
-    "m_Value": false,
-    "m_DefaultValue": false
-}
-
-{
-    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.NormalMaterialSlot",
     "m_ObjectId": "96251c4f9462462d81db400347d3d01a",
     "m_Id": 0,
@@ -1155,42 +1095,6 @@
     "m_Value": 0.5899999737739563,
     "m_DefaultValue": 0.0,
     "m_Labels": []
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
-    "m_ObjectId": "c3d04e42a6584732b384cf1ffc03f389",
-    "m_Group": {
-        "m_Id": ""
-    },
-    "m_Name": "Property",
-    "m_DrawState": {
-        "m_Expanded": true,
-        "m_Position": {
-            "serializedVersion": "2",
-            "x": 456.9999694824219,
-            "y": 1220.9998779296875,
-            "width": 207.99996948242188,
-            "height": 34.0
-        }
-    },
-    "m_Slots": [
-        {
-            "m_Id": "8dd3ba8e2d5c48bf9322b8105eb323b1"
-        }
-    ],
-    "synonyms": [],
-    "m_Precision": 0,
-    "m_PreviewExpanded": true,
-    "m_DismissedVersion": 0,
-    "m_PreviewMode": 0,
-    "m_CustomColors": {
-        "m_SerializableColors": []
-    },
-    "m_Property": {
-        "m_Id": "69e7c27289c0415088c631b2fd90c1f1"
-    }
 }
 
 {
@@ -1360,7 +1264,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "_Mirror_Radian_Width_Step",
     "m_StageCapability": 2,
-    "m_Value": true,
+    "m_Value": false,
     "m_DefaultValue": false
 }
 
@@ -1511,18 +1415,6 @@
         "m_SerializableColors": []
     },
     "m_SerializedDescriptor": "VertexDescription.Normal"
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.CategoryData",
-    "m_ObjectId": "f7520c9b39b745d49e13e43b7d70fb9f",
-    "m_Name": "Progress Bar Style",
-    "m_ChildObjectList": [
-        {
-            "m_Id": "4b38dc6436c049488bc9e7ded0de1a6a"
-        }
-    ]
 }
 
 {

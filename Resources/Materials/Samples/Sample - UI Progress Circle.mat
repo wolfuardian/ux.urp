@@ -91,7 +91,8 @@ Material:
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
-    - _Flip_Polar: 0
+    - _Flip: 0
+    - _Flip_Polar: 1
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
@@ -103,13 +104,13 @@ Material:
     - _Parallax: 0.02
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Radian_Length: 0.193
-    - _Radian_Width: 0.54
-    - _Repeat: 60
+    - _Radian_Length: 0.2
+    - _Radian_Width: 0.5
+    - _Repeat: 40
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
-    - _T: 1
+    - _T: 0.66
     - _UVSec: 0
     - _Width: 0.472
     - _Width_Mirror: 1
