@@ -131,7 +131,7 @@ GameObject:
   - component: {fileID: 47003072}
   - component: {fileID: 47003071}
   m_Layer: 5
-  m_Name: UI Progress Circle
+  m_Name: Sample - Chart - Progress Circle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -494,7 +494,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Sample - Progress Circle
+  m_Text: Sample - Chart - Progress Circle
 --- !u!222 &1087275480
 CanvasRenderer:
   m_ObjectHideFlags: 0
