@@ -92,20 +92,22 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _Flip: 0
+    - _Flip_Direction: 0
     - _Flip_Polar: 1
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
     - _Metallic: 0
     - _Mirror: 1
-    - _Mirror_Radian_Width_Step: 1
+    - _Mirror_Radian_Width_Step: 0
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Radian_Length: 0.2
-    - _Radian_Width: 0.5
+    - _Radian_Repeat: 10
+    - _Radian_Width: 0.4
     - _Repeat: 40
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
