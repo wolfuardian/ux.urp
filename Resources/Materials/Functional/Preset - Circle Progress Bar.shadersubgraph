@@ -1349,10 +1349,10 @@
     "m_Guid": {
         "m_GuidSerialized": "4615171b-4fef-4a6a-93e9-0b708ba30aef"
     },
-    "m_Name": "Flip Polar",
+    "m_Name": "Flip",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Flip Polar",
-    "m_DefaultReferenceName": "_Flip_Polar",
+    "m_RefNameGeneratedByDisplayName": "Flip",
+    "m_DefaultReferenceName": "_Flip",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -1637,7 +1637,7 @@
     "m_Type": "UnityEditor.ShaderGraph.BooleanMaterialSlot",
     "m_ObjectId": "58e4ad61261d497980848c282ad9d8f3",
     "m_Id": 0,
-    "m_DisplayName": "Flip Polar",
+    "m_DisplayName": "Flip",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
